@@ -1,2 +1,2 @@
 # Photo-Editor-Application-Using-JavaScript
-This JavaScript-based photo editor application offers a user-friendly interface for adjusting various image attributes. 
+This JavaScript-based photo editor application offers a user-friendly interface for adjusting various image attributes. Users can easily enhance their photos by tweaking brightness, contrast, saturation, and applying inversion effects. The app also provides options for blur, rotation, and flipping to customize images further. If adjustments don't meet expectations, users can conveniently reset filters. Once satisfied with the edits, the app allows users to save the modified images, ensuring a seamless editing experience.
